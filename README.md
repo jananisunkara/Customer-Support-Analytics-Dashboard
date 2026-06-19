@@ -1,24 +1,36 @@
-# Customer-Support-Analytics-Dashboard
-# Sales Performance Dashboard - Tableau  ## Overview  Developed an interactive Tableau dashboard to analyze sales performance, profitability, customer segments, and regional trends using the Sample Superstore dataset.  
-Dashboard Features
-Total Sales KPI
-Total Profit KPI
-Total Orders KPI
-Sales by Region
-Profit by Region
-Monthly Sales Trend
-Top 10 Products by Sales
-Sales by Category
-Interactive Filters
-Tools Used
-Tableau
-Data Visualization
-KPI Reporting
-Interactive Dashboards
-Key Insights
-Sales performance varies across regions.
-Top products contribute significantly to total revenue.
-Sales trends reveal seasonal demand patterns.
-Outcome
+# Customer Support Analytics Dashboard
 
-Created an interactive business dashboard supporting sales and profitability analysis.
+## Overview
+
+This case study analyzes customer support ticket data to evaluate service efficiency, ticket resolution performance, customer satisfaction, and support channel effectiveness.
+
+## Business Problem
+
+Organizations need to monitor customer support operations to improve response times and customer satisfaction. This project focuses on identifying operational bottlenecks and support trends.
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Formulas
+* KPI Tracking
+* Charts and Dashboards
+
+## Dashboard Features
+
+* Total Tickets
+* High Priority Tickets
+* Customer Satisfaction Analysis
+* Resolution Time Analysis
+* Ticket Status Tracking
+* Channel-wise Ticket Distribution
+
+## Key Insights
+
+* Ticket priorities influence response and resolution times.
+* Customer satisfaction is closely linked to support efficiency.
+* Support channels show different ticket volume patterns.
+
+## Outcome
+
+Built an interactive dashboard to monitor support operations and generate business recommendations.
